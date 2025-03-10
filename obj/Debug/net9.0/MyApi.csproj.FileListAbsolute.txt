@@ -31,3 +31,4 @@
 /Users/noramoser/Projects/MyApi/obj/Debug/net9.0/MyApi.pdb
 /Users/noramoser/Projects/MyApi/obj/Debug/net9.0/MyApi.genruntimeconfig.cache
 /Users/noramoser/Projects/MyApi/obj/Debug/net9.0/ref/MyApi.dll
+/Users/noramoser/Projects/MyApi/obj/Debug/net9.0/MyApi.sourcelink.json
